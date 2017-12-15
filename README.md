@@ -88,6 +88,8 @@ Checkout this [sample plunker](https://embed.plnkr.co/VFwGvAO6MhV06IDTLk5W/)
 * **cropOnResize**:*boolean* (default: true) - if true the cropper will create a new cropped Image object immediately when the crop area is resized
 * **markerSizeMultiplier**:*number* (default: 1) - A variable that control the corner markers' size
 * **showCenterMarker**:*boolean* (default: true) - if true, the drag center marker is visible
+* **keepAspect**:*boolean* (default: true) - if true, crop height and width will change simultaneously while dragging
+
 
 ## Customizing Image cropper
 
